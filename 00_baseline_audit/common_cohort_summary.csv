@@ -1,0 +1,9 @@
+split,surface,baseline_rows,moment_valid_rows,common_rows,excluded_rows,unique_common_hours
+test,HSR,1822,1822,1822,0,1822
+test,TSR,1822,1822,1822,0,1822
+train_oof,HSR,8526,8526,8526,0,8526
+train_oof,TSR,8526,8526,8526,0,8526
+validation_calibration,HSR,910,910,910,0,910
+validation_calibration,TSR,910,910,910,0,910
+validation_early,HSR,905,905,905,0,905
+validation_early,TSR,905,905,905,0,905
