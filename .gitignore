@@ -1,0 +1,17 @@
+# Local-only experimental outputs and source-derived row-level data.
+baseline_reproduction_20260922/
+baseline_audit_first_pass_backup/
+00_baseline_audit/predictions_baseline.csv
+00_baseline_audit/spectral_moment_validation.csv
+00_baseline_audit/common_cohort_keys.csv
+00_baseline_audit/audit_manifest.json
+
+# Source observations, model artifacts, and local Python cache.
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+__pycache__/
+.pytest_cache/
+.venv/
